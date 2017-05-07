@@ -22,7 +22,7 @@ margin: 0px 0px 20px 0px;
 .entry {
 	width: 220px;
 	float: left;
-	margin: 10px 0px 10px 10px;
+	margin: 10px 10px 10px 0px;
 	height: 198px;
 	/*background-image: url("images/header.jpg");
 	background-repeat: no-repeat;
@@ -37,7 +37,7 @@ figure img {
 
 figure {
 	display: block;
-	width: 202px;
+	width: 200px;
 	height: 170px;
 	background-color: #e7e3d8;
 	padding: 9px;
